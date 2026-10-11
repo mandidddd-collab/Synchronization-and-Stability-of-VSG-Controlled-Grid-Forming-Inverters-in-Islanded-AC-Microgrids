@@ -41,8 +41,6 @@ installation, CVX, or SDPT3.
 After a successful run, the following files are written to `results`:
 
 - `static_benchmark_results.csv`: complete numerical results;
-- `critical_loading_factors.tex`: LaTeX table for the four loading factors;
-- `critical_ratio_comparison.tex`: compatibility copy of the table;
 - `certified_point_verification.csv`: certificate checks;
 - `static_benchmark_workspace.mat`: MATLAB workspace containing all results;
 - `converted_case_data/`: converted network data used by the benchmark.
