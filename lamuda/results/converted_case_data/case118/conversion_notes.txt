@@ -1,0 +1,13 @@
+System: IEEE 118-bus
+Official case function: case118
+Official source: https://raw.githubusercontent.com/MATPOWER/matpower/8.1/data/case118.m
+baseMVA: 100
+AC power-flow source: case-file values
+VSG buses (internal): [10 12 25 26 49 61 65 66 69 80 87 89 100 103 111]
+CPL buses (internal): [1 2 3 4 6 7 8 11 13 14 15 16 17 18 19 20 21 22 23 24 27 28 29 31 32 33 34 35 36 39 40 41 42 43 44 45 46 47 48 50 51 52 53 54 55 56 57 58 59 60 62 67 70 72 73 74 75 76 77 78 79 82 83 84 85 86 88 90 91 92 93 94 95 96 97 98 99 101 102 104 105 106 107 108 109 110 112 113 114 115 116 117 118]
+Zero-injection algebraic buses: [5 9 30 37 38 63 64 68 71 81]
+Loss surplus removed from positive injections [p.u.]: 1.354
+Positive-injection rescaling: 0.964230992762
+Balanced injection residual: 8.882e-16
+Conversion: fixed voltage, R=0, Bsh=0, phase shifts ignored.
+Line coefficient: a_e=V_i V_j/(x_e |tap_e|).
